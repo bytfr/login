@@ -1,7 +1,7 @@
 if(document.location['search'] == ""){
 	window.location = "https://www.baidu.com/";
 }
-api_url = "http://dellv4.grmine.cn:4095/"
+api_url = "http://api.grmine.cn:4095/"
 
 function message(msg){
 	console.log(msg);
